@@ -14,7 +14,7 @@ http://xmind-help.github.io/ja/
 
 http://xmind-help.github.io/en/
 
-## Transration / 翻訳への参加
+## Translation / 翻訳への参加
 
 ぜひ、下記サイトから、翻訳に参加してください。レビュアーも募集しています。
 
